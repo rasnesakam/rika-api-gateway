@@ -5,7 +5,7 @@ plugins {
 	id("com.google.protobuf") version "0.9.4"
 }
 
-val grpcVersion = "1.60.0-SNAPSHOT" // CURRENT_GRPC_VERSION
+val grpcVersion = "1.59.0" // CURRENT_GRPC_VERSION
 val protobufVersion = "3.24.0"
 val protocVersion = protobufVersion
 
