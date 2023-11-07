@@ -1,0 +1,3 @@
+[submodule "src/main/proto/auth"]
+	path = src/main/proto/auth
+	url = git@github.com:rika-hq/rika-auth-proto.git
